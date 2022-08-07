@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AgnesBM
 - 👀 I’m interested in programming and developmant
-- 🌱 I’m currently learning c++ and python
+- 🌱 I’m currently learning HTML and CSS
 - 💞️ I’m looking to collaborate on ... not sure yet
 - 📫 How to reach me ... contact me through my email Morodiab5@gmail.com 
 
